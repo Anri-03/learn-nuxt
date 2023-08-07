@@ -1,4 +1,6 @@
-export const store = () => {}
+export const store = () => {
+    test: 0
+}
 
 export const mutations = {}
 
